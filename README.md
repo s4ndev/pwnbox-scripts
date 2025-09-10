@@ -1,4 +1,4 @@
-# HTB Pwnbox Scripts
+# HTB Pwnbox RDP over SSH
 
 A high-performance and versatile alternative means to connect to HackTheBox's Pwnboxes.
 
